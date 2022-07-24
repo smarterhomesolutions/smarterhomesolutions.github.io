@@ -1,0 +1,1 @@
+# smarterhomesolutions.github.io
