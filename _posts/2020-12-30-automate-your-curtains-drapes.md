@@ -6,7 +6,7 @@ date: 2020-12-30
 feature_image: https://cdn.shopify.com/s/files/1/0335/7333/9269/files/02-1.gif
 tags: [Alexa,IJPUK]
 redirect_from:
-  - 2020/12/automate-your-curtains-drapes
+  - /2020/12/automate-your-curtains-drapes
 ---
 
 Just before Christmas, I installed two of these robotic curtain opener/closer devices (drapes to our American friends) in less than 30 minutes.  I chose the rod version (track is also available) as our curtains have eyelets and because the curtains open from the middle, I needed two. Ours are configured to work as a pair, so one command and they open/close.

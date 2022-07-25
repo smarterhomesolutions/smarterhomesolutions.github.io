@@ -6,7 +6,7 @@ date: 2020-06-27
 feature_image: images/20200623190112-nest-hello.jpg
 tags: [IFTTT,Alexa]
 redirect_from:
-  - 2020/06/alexa-announcing-google-nest-hello
+  - /2020/06/alexa-announcing-google-nest-hello
 ---
 
 So, you have bought a Google Nest Hello doorbell and you want your Alexa device to announce when someone is at the door.  Well, look no further as we have the answer for you on how to connect these differing technological platforms together with what might first appear as some sticky back plastic and card.

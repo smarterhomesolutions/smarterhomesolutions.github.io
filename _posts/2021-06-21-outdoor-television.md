@@ -6,7 +6,7 @@ date: 2021-06-21
 feature_image: images/20210621230437-hot-spring-limelight-hero-image.jpg
 tags: [Television,Hot tub]
 redirect_from:
-  - 2021/06/outdoor-television
+  - /2021/06/outdoor-television
 ---
 
 I have recently bought a hot tub to enjoy the starry nights and to watch the sun go down.  Whilst we wait for delivery (6 months!), I've been contemplating exactly where to put it in the garden.  
